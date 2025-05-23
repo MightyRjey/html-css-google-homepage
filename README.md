@@ -39,8 +39,8 @@ To view the page locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/google-homepage-clone.git
-   cd google-homepage-clone
+   git clone https://github.com/MightyRjey/html-css-google-homepage.git
+   cd html-css-google-homepage
    ```
 
 2. Open `index.html` in your browser:
